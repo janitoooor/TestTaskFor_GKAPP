@@ -1,6 +1,6 @@
 # About project
 
-* This test task for the GK APP to the position of unity developer
+This test task for the GK APP to the position of unity developer
 
 #### Task plan:
 
