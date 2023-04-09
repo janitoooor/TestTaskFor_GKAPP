@@ -1,8 +1,8 @@
 # About project
 
-This test task for the GK APP to the position of unity developer
+This test task for the __GK APP__ to the position of unity developer
 
-#### Task plan:
+## Task plan:
 
 ___1.___ It is necessary to make a service that would address the server (any public server of your choice, which returns data as JSON).
 
@@ -13,3 +13,7 @@ ___3.___ The service should be placed on the stage and should display the result
 ___4.___ The code must be clean, readable.
 
 ___5.___ The code should be posted on the github.
+
+## System requirements:
+
+The project requires the Unity Environment __2022.2.8f1__ or higher to work with it.
