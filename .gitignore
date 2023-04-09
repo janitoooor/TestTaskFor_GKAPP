@@ -1,0 +1,37 @@
+# Unity generated
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+
+# Visual Studio / MonoDevelop generated
+[Ee]xportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+*.orig
+ipch/
+obj/
+*.pdb
+*.pdb.meta
+
+# Unity3D generated #
+*_Data/
+*_Data/**/*
+*.meta
+*.meta.meta
+
+# Rider generated #
+.idea/
+*.csproj.user
+*.sln.iml
+
+# Other
+.DS_Store
+Thumbs.db
