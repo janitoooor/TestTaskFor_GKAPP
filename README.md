@@ -1,8 +1,8 @@
-#About project
+# About project
 
 * This test task for the GK APP to the position of unity developer
 
-####Task plan:
+#### Task plan:
 
 ___1.___ It is necessary to make a service that would address the server (any public server of your choice, which returns data as JSON).
 
