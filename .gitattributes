@@ -1,1 +1,2 @@
 text=auto
+TestTask_GKAPP/Library/PackageCache/** filter=lfs diff=lfs merge=lfs -text
