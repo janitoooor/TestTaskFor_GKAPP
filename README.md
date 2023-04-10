@@ -1,6 +1,8 @@
 # About project
 
-This test task for the __GK APP__ to the position of unity developer
+This test task for the __GK APP__ to the position of unity developer.
+
+  This program __allows you to learn the weather in any city in the world__. All you need to do to send a request and know the weather is to enter the name of the city and press the send request button.
 
 ## Task plan:
 
